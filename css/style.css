@@ -1,0 +1,117 @@
+@import url();
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0 auto;
+    background-color: black;
+    max-width: 1000px;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    text-decoration-line: solid;
+}
+
+h4{
+    font-style: normal;
+}
+
+header, footer {
+    width: 100%;
+    margin: 15px 0px 15px 0px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    border-width: 1px;
+    color: azure;
+}
+
+main{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+img{
+    padding: 10px;
+}
+
+p{
+    color:whitesmoke;
+    padding: 10px;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.X {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.Cry {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+    margin: 5px;
+}
+
+.Cigarettes_After_Sex {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.K {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.Youre_All_I_Want {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.Crush {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.Falling_in_Love {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.Neon_Moon {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+.Apocalypse {
+    border: 1px;
+    text-align: center;
+    flex-basis: 30%;
+
+}
+
+a{
+    color: antiquewhite;
+}
